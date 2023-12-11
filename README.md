@@ -12,7 +12,7 @@ In this game, the hoop will be dynamically shanging it's position in the space a
 Repository structure:- 
 
 
-├── My Basketball AR 
+├── ARIOT
 │   ├── AR Basketball
 │   │   ├── AppDelegate.swift (Entry point of the application.)
 │   │   ├── Assets.xcassets (Contains app icons and image sets.)
