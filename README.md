@@ -14,7 +14,7 @@ In this game, the hoop will be dynamically shanging it's position in the space a
 
 Repository structure:- 
 
-'''
+```
 ├── My Basketball AR 
 │   ├── AR Basketball
 │   │   ├── AppDelegate.swift (Entry point of the application.)
@@ -47,7 +47,7 @@ Repository structure:-
 │   └── MyBasketball AR .xcodeproj (XCode project file)
 │       
 └── README.md
-'''
+```
 
 
 ### Running the app
