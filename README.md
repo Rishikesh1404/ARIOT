@@ -19,8 +19,7 @@ Repository structure:-
 │   ├── AR Basketball
 │   │   ├── AppDelegate.swift (Entry point of the application.)
 │   │   ├── Assets.xcassets (Contains app icons and image sets.)
-│   │   │   ├── AppIcon.appiconset (App icon configurations.
-)
+│   │   │   ├── AppIcon.appiconset (App icon configurations.)
 │   │   │   │   ├── Contents.json 
 │   │   │   │   ├── imresizer-1702234890297.jpg
 │   │   │   │   └── myapp.png
